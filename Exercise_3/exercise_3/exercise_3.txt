@@ -1,0 +1,7 @@
+Q1: The fuzzer from the chapter on [Efficient Grammar Fuzzing](https://www.fuzzingbook.org/html/GrammarFuzzer.html) is biased by the grammar structure. Which productions are more likely to be produced?
+
+
+
+Q2: How can you change a given grammar such that the `GrammarFuzzer` will be more likely to generate a (previously) underrepesented non-terminal symbol `NT`?
+
+

@@ -1,0 +1,2 @@
+What you have achieved in this exercise could be easily accomplished programmatically, i.e. without the usage of a grammar but instead writing code to generate an IBAN. But using a grammar provides benefits over such an approach. Could you name one advantage?
+

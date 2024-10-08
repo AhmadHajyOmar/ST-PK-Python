@@ -1,0 +1,3 @@
+Provide an explanation why expanding the grammar and fuzzing it with grammar coverage in mind could help to improve the code coverage on a target. Two to three sentences should be sufficient. 
+
+
